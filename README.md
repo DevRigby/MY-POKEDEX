@@ -24,7 +24,7 @@ Este projeto consiste em uma Pokédex estática que exibe informações sobre Po
 2. Abra o arquivo `index.html` no seu navegador preferido.
 3. Navegue pela Pokédex e confira as informações.
 
-##「Como contribuir 」
+##「 Como contribuir 」
 
 Contribuições são bem-vindas! Estamos aqui pra isso! Abra uma issue ou envie um pull request para futuras melhorias.
 

@@ -6,7 +6,7 @@ Projeto simples de uma Pokédex feita em HTML e CSS.
 
 Este projeto consiste em uma Pokédex estática que exibe informações sobre Pokémon utilizando apenas HTML e CSS, sem backend ou scripts adicionais.
 
-## 「 Funcionalidades 」
+##「 Funcionalidades 」
 
 - Exibição dos Pokémon com imagens animadas e informações básicas
 - Layout responsivo e visual limpo

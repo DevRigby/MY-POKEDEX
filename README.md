@@ -15,7 +15,7 @@ Este projeto consiste em uma Pokédex estática que exibe informações sobre Po
 
 ## Tecnologias usadas
 
-- HTML5
+- HTML
 - CSS
 
 ## Como usar

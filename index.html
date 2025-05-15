@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Pokédex</title>
+    
+    <!-- Meus links -->
+    <link rel="icon" href="images/poke-icon.png">
+    <link rel="stylesheet" href="./css/style.css">
+
+    <!-- Main JAVA SCRIPT -->
+    <script defer src="./js/script.js"></script>
+
+</head>
+ 
+<main>
+
+    <img src="" 
+    alt="pokemon" class="pokemon_image">
+
+    <img src="./images/pokedex.png" alt="pokedex" class="pokedex">
+  
+
+    <h1 class="pokemon_data">
+        <span class="pokemon__number"></span> -
+        <span class="pokemon__name"></span>
+    </h1>
+
+    <form class="form">
+        <input
+          type="search"
+          class="input__search"
+          placeholder="Nome ou Número"
+          required
+        />
+        
+        <div class="buttons">
+        <button class="button btn-prev">Trás &lt;</button>
+        <button class="button btn-next">Próx &gt;</button>
+      </div>
+
+       <!-- ÁUDIOS/MÚSICAS -->
+
+      <audio id="audioFundo" class="audio" controls autoplay loop preload="metadata" src="audios/Pokemon Platinum OST ： Lake HD.mp3"></audio>
+
+      <script>
+        const audio = document.getElementById('audioFundo');
+        audio.volume = 0.10; 
+      </script>
+</main>
+

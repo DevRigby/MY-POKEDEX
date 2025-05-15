@@ -18,7 +18,7 @@ Este projeto consiste em uma Pokédex estática que exibe informações sobre Po
 - HTML
 - CSS
 
-##「 Como usar 」
+## 「 Como usar 」
 
 1. Clone ou faça o download deste repositório.
 2. Abra o arquivo `index.html` no seu navegador preferido.

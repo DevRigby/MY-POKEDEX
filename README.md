@@ -1,4 +1,4 @@
-# MY_POKEDEX
+# MYPOKEDEX
 
 Projeto simples de uma Pokédex feita em HTML e CSS.
 

@@ -28,7 +28,7 @@ Este projeto consiste em uma Pokédex estática que exibe informações sobre Po
 
 Contribuições são bem-vindas! Estamos aqui pra isso! Abra uma issue ou envie um pull request para futuras melhorias.
 
-## 「Autor 」
+## 「 Autor 」👾
 
 
 DevRigby — [Clica aqui](https://github.com/DevRigby)

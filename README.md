@@ -26,7 +26,7 @@ Este projeto consiste em uma Pokédex estática que exibe informações sobre Po
 
 ## Como contribuir
 
-Contribuições são bem-vindas! Abra uma issue ou envie um pull request para melhorias.
+Contribuições são bem-vindas! Estamos aqui pra isso! Abra uma issue ou envie um pull request para futuras melhorias.
 
 ## Autor
 

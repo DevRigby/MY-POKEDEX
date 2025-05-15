@@ -31,6 +31,6 @@ Contribuições são bem-vindas! Abra uma issue ou envie um pull request para me
 ## Autor
 
 
-DevRigby — [Seu perfil no GitHub](https://github.com/DevRigby)
+DevRigby — [Clica aqui](https://github.com/DevRigby)
 
 

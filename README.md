@@ -1,4 +1,4 @@
-# 「 MYPOKEDEX 」
+## 「 MYPOKEDEX 」
 
 Projeto simples de uma Pokédex feita em HTML e CSS.
 

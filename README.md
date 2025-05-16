@@ -1,36 +1,33 @@
 # 「 MYPOKEDEX 」🐲
 
-Projeto simples de uma Pokédex feita em HTML e CSS.
+A simple Pokédex project made with HTML and CSS.
 
-## 「 Descrição 」📕
+## 「 Description 」📕
 
-Este projeto consiste em uma Pokédex estática que exibe informações sobre Pokémon utilizando apenas HTML e CSS, sem backend ou scripts adicionais.
+This project consists of a static Pokédex that displays information about Pokémon using only HTML and CSS, without any backend or additional scripts.
 
-## 「 Funcionalidades 」💼
+## 「 Features 」💼
 
-- Exibição dos Pokémon com imagens animadas e informações básicas
-- Layout responsivo e visual limpo
-- Navegação simples entre os cards dos Pokémon
-- Ambientação
+- Display of Pokémon with animated images and basic information
+- Responsive layout with a clean visual design
+- Simple navigation between Pokémon cards
+- Themed atmosphere
 
-## 「 Tecnologias usadas 」⚙️
+## 「 Technologies Used 」⚙️
 
 - HTML
 - CSS
 
-## 「 Como usar 」✏️
+## 「 How to Use 」✏️
 
-1. Clone ou faça o download deste repositório.
-2. Abra o arquivo `index.html` no seu navegador preferido.
-3. Navegue pela Pokédex e confira as informações.
+1. Clone or download this repository.
+2. Open the `index.html` file in your preferred browser.
+3. Browse the Pokédex and check the information.
 
-## 「 Como contribuir 」💭
+## 「 How to Contribute 」💭
 
-Contribuições são bem-vindas! Estamos aqui pra isso! Abra uma issue ou envie um pull request para futuras melhorias.
+Contributions are welcome! That’s what we’re here for! Open an issue or send a pull request for future improvements.
 
-## 「 Autor 」👾
+## 「 Author 」👾
 
-
-DevRigby — [Clica aqui](https://github.com/DevRigby)
-
-
+DevRigby — [Click here](https://github.com/DevRigby)
